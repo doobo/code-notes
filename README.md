@@ -7,6 +7,7 @@
 * A01:[日常怎样使用GIT](https://gitee.com/doobo/code-notes/tree/master/A01)
 * A02:[编码中如何使用浏览器](https://gitee.com/doobo/code-notes/tree/master/A02)
 * A03:[很好用的一种公共体](https://gitee.com/doobo/code-notes/tree/master/A03)
+* A04:[很好用的一种Http工具](https://gitee.com/doobo/code-notes/tree/master/A04)
 
 ## 进阶篇
 * B01:[数字货币的战略核武器](https://gitee.com/doobo/code-notes/tree/master/B01)
